@@ -1,1 +1,2 @@
 los metadatos son informscion extra q se añade a un fichero
+linea para probar el comando diff
